@@ -1,28 +1,48 @@
-# About Me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmt92&layout=compact&show_icons=true&theme=radical)
 
-### Table of Contents
-
-1. About Me
-   - [Introduction](#introduction)
-2. Projects
-   - [Full-Stack Projects](#full-stack-projects)
-   - [Front-End Projects](#front-end-projects)
-   - [Back-End Projects](#back-end-projects)
-3. Education and Certifications
-   - [MOOCs](#moocs)
-   - [freeCodeCamp Certifications](#freecodecamp-certifications)
-4. Skills and Expertise
-   - [Programming Languages](#programming-languages)
-   - [Areas of Expertise](#areas-of-expertise)
-5. Languages
-6. Contact
-
-
-## Introduction
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NAME)](https://github.com/anuraghazra/github-readme-stats)
 
 Hello! I'm a junior developer and a medical doctor with a passion for programming and hacking things since childhood. My journey in the world of coding has been fueled by a desire to merge my medical expertise with technology to create innovative solutions. I have completed several comprehensive courses and certifications that have equipped me with a diverse skill set in various programming languages and frameworks.
 
-## Projects
+<details>
+  <summary>Skills</summary>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,php" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,redux,nodejs,django,nextjs,bootstrap,jquery,d3,sass" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,heroku,codepen,windows" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,atom,neovim,pycharm" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=npm,regex" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ps" />
+    </a>
+  </p>
+</details>
+
+<details>
+<summary>Projects</summary>
 
 Here are some of my projects hosted on various platforms:
 
@@ -57,8 +77,11 @@ Here are some of my projects hosted on various platforms:
 | Exercise Tracker | A microservice to track exercises. | [Repo Link](https://github.com/agmt92/-GitHub-b-boilerplate-project-exercisetracker-) | [Live Demo](https://exercise-tracker-hrk-2942297fa708.herokuapp.com/) | Node.js, Express, MongoDB |
 | File Metadata Microservice | A microservice to get file metadata. | [Repo Link](https://github.com/agmt92/filemetadata-microservice) | [Live Demo](https://filemetada-microservice-0402d86def70.herokuapp.com/) | Node.js, Express |
 | URL Shortener | A microservice to shorten URLs. | [Repo Link](https://github.com/agmt92/boilerplate-project-urlshortener) | [Live Demo](https://dry-brushlands-17298-607b22fd3d43.herokuapp.com/) | Node.js, Express, MongoDB |
+</details>
 
-## Education and Certifications
+
+<details>
+   <summary>Education and Certifications</summary>
 
 ### MOOCs
 
@@ -77,7 +100,12 @@ Here are some of my projects hosted on various platforms:
 - **[Back End Development and APIs Certification](https://www.freecodecamp.org/certification/your-username/back-end-development-and-apis)**: Managing Packages with NPM, Node and Express, MongoDB and Mongoose
 - **Currently Learning**: Quality Assurance and Information Security curriculums
 
-## Skills and Expertise
+</details>
+
+
+
+<details>
+   <summary>Skills and Expertise</summary>
 
 ### Programming Languages
 
@@ -97,7 +125,9 @@ Here are some of my projects hosted on various platforms:
 - **Web Design**: Crafting aesthetically pleasing and user-friendly web designs.
 - **Quality Assurance**: Ensuring the quality and reliability of web applications through testing and debugging.
 
-## Languages
+</details> 
+<details>
+<summary>Languages</summary> 
 
 - **English**: First Language
 - **Arabic**: First Language
@@ -106,6 +136,7 @@ Here are some of my projects hosted on various platforms:
 - **Russian**: B1
 - **French**: A2
 
+</details>
 
 ## Contact
 
