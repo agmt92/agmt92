@@ -6,7 +6,7 @@ Hello! I'm a junior developer and a medical doctor with a passion for programmin
 
 ## Education and Certifications
 
-### University of Michigan Courses (MOOCs)
+### University of Michigan Courses
 
 - **[Python for Everybody (PY4E)](https://www.coursera.org/specializations/python)** by Dr. Chuck Severance
 - **[Django for Everybody (DJ4E)](https://www.coursera.org/specializations/django)** by Dr. Chuck Severance
@@ -42,6 +42,15 @@ Hello! I'm a junior developer and a medical doctor with a passion for programmin
 - **Data Visualization**: Creating dynamic and interactive data visualizations using D3.js and other JavaScript libraries.
 - **Web Design**: Crafting aesthetically pleasing and user-friendly web designs.
 - **Quality Assurance**: Ensuring the quality and reliability of web applications through testing and debugging.
+
+## Languages
+
+- **English**: First Language
+- **Arabic**: First Language
+- **German**: B2
+- **Portuguese**: B1
+- **Russian**: B1
+- **French**: A2
 
 ## Projects
 
