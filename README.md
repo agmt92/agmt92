@@ -1,8 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmt92&layout=compact&show_icons=true&theme=radical)
+Hello! I'm a junior developer and a medical doctor with a passion for programming since childhood. My journey in the world of coding has been fueled by a desire to merge my medical expertise with technology to create innovative solutions. I have completed several comprehensive courses and certifications that have equipped me with a diverse skill set in various programming languages and frameworks. 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NAME)](https://github.com/anuraghazra/github-readme-stats)
-
-Hello! I'm a junior developer and a medical doctor with a passion for programming and hacking things since childhood. My journey in the world of coding has been fueled by a desire to merge my medical expertise with technology to create innovative solutions. I have completed several comprehensive courses and certifications that have equipped me with a diverse skill set in various programming languages and frameworks.
+I am currently open for work and collaboration!
 
 <details>
   <summary>Skills</summary>
@@ -145,3 +143,8 @@ Feel free to reach out to me here or via [email](mailto:agmt@dr.com)
 ---
 
 Thank you for visiting my profile! I'm always open to new opportunities and collaborations. Let's create something amazing together!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmt92&layout=compact&show_icons=true&theme=highcontrast)
+<p align='left'>
+<img src="https://now-play.vercel.app/api/generate?uid=536045d6-daf7-424d-81ef-52f52156d561&theme=dark" />
+</p>
