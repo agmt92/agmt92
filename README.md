@@ -1,6 +1,4 @@
-Hello! I'm a junior developer and a medical doctor with a passion for programming since childhood. My journey in the world of coding has been fueled by a desire to merge my medical expertise with technology to create innovative solutions. I have completed several comprehensive courses and certifications that have equipped me with a diverse skill set in various programming languages and frameworks. 
-
-I am currently open for work and collaboration!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&duration=2000&pause=200&color=34F7C1&background=161B2200&width=435&lines=Hello!++%F0%9F%91%8B+;I+am+AG+%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+profile+%F0%9F%91%A4;If+you+would+like+to;collaborate++%F0%9F%A4%9D;please+don't+hesitate+to+;reach+out+%E2%9C%89%EF%B8%8F+)](https://git.io/typing-svg)
 
 <details>
   <summary>Skills</summary>
@@ -144,7 +142,7 @@ Feel free to reach out to me here or via [email](mailto:agmt@dr.com)
 
 Thank you for visiting my profile! I'm always open to new opportunities and collaborations. Let's create something amazing together!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmt92&layout=compact&show_icons=true&theme=highcontrast)
-<p align='left'>
-<img src="https://now-play.vercel.app/api/generate?uid=536045d6-daf7-424d-81ef-52f52156d561&theme=dark" />
-</p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmt92&layout=compact&show_icons=true&theme=highcontrast)  
+<img src="https://now-play.vercel.app/api/generate?uid=536045d6-daf7-424d-81ef-52f52156d561&theme=dark" /> 
