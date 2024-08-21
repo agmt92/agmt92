@@ -72,7 +72,7 @@ Here are some of my projects hosted on various platforms:
 | Timestamp Microservice | A microservice to convert timestamps. | [Repo Link](https://github.com/agmt92/boilerplate-project-timestamp) | [Live Demo](https://timestamp-microservice-aaa1392706ce.herokuapp.com/) | Node.js, Express |
 | Exercise Tracker | A microservice to track exercises. | [Repo Link](https://github.com/agmt92/-GitHub-b-boilerplate-project-exercisetracker-) | [Live Demo](https://exercise-tracker-hrk-2942297fa708.herokuapp.com/) | Node.js, Express, MongoDB |
 | File Metadata Microservice | A microservice to get file metadata. | [Repo Link](https://github.com/agmt92/filemetadata-microservice) | [Live Demo](https://filemetada-microservice-0402d86def70.herokuapp.com/) | Node.js, Express |
-| URL Shortener | A microservice to shorten URLs. | [Repo Link](https://github.com/agmt92/boilerplate-project-urlshortener) | [Live Demo](https://dry-brushlands-17298-607b22fd3d43.herokuapp.com/) | Node.js, Express, MongoDB |
+| URL Shortener | A microservice to shorten URLs. | [Repo Link](https://github.com/agmt92/boilerplate-project-urlshortener) | [Live Demo](https://cut-2c183dc1c6a9.herokuapp.com/) | Node.js, Express, MongoDB |
 </details>
 
 
