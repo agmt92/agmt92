@@ -6,7 +6,7 @@ Hello! I'm a junior developer and a medical doctor with a passion for programmin
 
 ## Education and Certifications
 
-### University of Michigan Courses
+### University of Michigan Courses (MOOCs)
 
 - **[Python for Everybody (PY4E)](https://www.coursera.org/specializations/python)** by Dr. Chuck Severance
 - **[Django for Everybody (DJ4E)](https://www.coursera.org/specializations/django)** by Dr. Chuck Severance
