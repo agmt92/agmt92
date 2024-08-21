@@ -56,34 +56,43 @@ Hello! I'm a junior developer and a medical doctor with a passion for programmin
 
 Here are some of my projects hosted on various platforms:
 
+### Full-Stack Projects
+
+| Title | Description | Repository | Live Demo | Main Technology/Framework |
+|-------|-------------|------------|-----------|---------------------------|
+| MedLb | Full-stack application for a Medication and Pharmacies database. | [Repo Link](https://github.com/agmt92/MedLb) | [Live Demo](https://agmt92.pythonanywhere.com/) | Django |
+
+
 ### Front-End Projects
 
-| Title | Description | Repository | Live Demo |
-|-------|-------------|------------|-----------|
-| Project 1 | Description of Project 1 | [Repo Link](https://github.com/your-username/project1) | [Live Demo](https://your-username.github.io/project1) |
-| Project 2 | Description of Project 2 | [Repo Link](https://github.com/your-username/project2) | [Live Demo](https://your-username.github.io/project2) |
+| Title | Description | Repository | Live Demo | Main Technology/Framework |
+|-------|-------------|------------|-----------|---------------------------|
+| Drum Machine | A drum machine built using React. | [Repo Link](https://github.com/agmt92/drum-machine) | [Live Demo](https://agmt92.github.io/drum-machine/) | React-redux |
+| QT Machine | A QT machine built using React. | [Repo Link](https://github.com/agmt92/qt_machine) | [Live Demo](https://agmt92.github.io/qt_machine/) | React |
+| Markdown Previewer | A Markdown previewer built using React. | [Repo Link](https://github.com/agmt92/markdown-previewer) | [Live Demo](https://agmt92.github.io/markdown-previewer/) | React |
+| JavaScript Calculator | A calculator built using JavaScript, React, and Redux. | [Repo Link](https://github.com/agmt92/js-calculator) | [Live Demo](https://agmt92.github.io/js-calculator/) | React-Redux |
+| US GDP Visualization | A D3.js project visualizing US GDP data. | [Repo Link](https://github.com/agmt92/us-gdp-d3) | [Live Demo](https://agmt92.github.io/us-gdp-d3/) | D3.js |
+| Kickstarter Pledges Treemap | A D3.js project visualizing Kickstarter pledges. | [Repo Link](https://github.com/agmt92/kickstarter-pledges-treamap-d3) | [Live Demo](https://agmt92.github.io/kickstarter-pledges-treamap-d3/) | D3.js |
+| Heatmap | A D3.js project visualizing heatmap data. | [Repo Link](https://github.com/agmt92/heatmap-d3) | [Live Demo](https://agmt92.github.io/heatmap-d3/) | D3.js |
+| US Education Map | A D3.js project visualizing US education data. | [Repo Link](https://github.com/agmt92/us-edu-map-d3) | [Live Demo](https://agmt92.github.io/us-edu-map-d3/) | D3.js |
+| Cycling Doping Data | A D3.js project visualizing cycling doping data. | [Repo Link](https://github.com/agmt92/cycling-doping-d3) | [Live Demo](https://agmt92.github.io/cycling-doping-d3/) | D3.js |
+| 30mins Clock | A clock application built using React. | [Repo Link](https://github.com/agmt92/30mins-clock) | [Live Demo](https://agmt92.github.io/30mins-clock/) | React-Redux |
 
 ### Back-End Projects
 
-| Title | Description | Repository | Live Demo |
-|-------|-------------|------------|-----------|
-| Project 3 | Description of Project 3 | [Repo Link](https://github.com/your-username/project3) | [Live Demo](https://your-username.herokuapp.com/project3) |
-| Project 4 | Description of Project 4 | [Repo Link](https://github.com/your-username/project4) | [Live Demo](https://your-username.pythonanywhere.com/project4) |
+| Title | Description | Repository | Live Demo | Main Technology/Framework |
+|-------|-------------|------------|-----------|---------------------------|
+| Request Header Parser | A microservice to parse request headers. | [Repo Link](https://github.com/agmt92/boilerplate-project-headerparser) | [Live Demo](https://headparser-513880413aff.herokuapp.com/) | Node.js, Express |
+| Timestamp Microservice | A microservice to convert timestamps. | [Repo Link](https://github.com/agmt92/boilerplate-project-timestamp) | [Live Demo](https://timestamp-microservice-aaa1392706ce.herokuapp.com/) | Node.js, Express |
+| Exercise Tracker | A microservice to track exercises. | [Repo Link](https://github.com/agmt92/-GitHub-b-boilerplate-project-exercisetracker-) | [Live Demo](https://exercise-tracker-hrk-2942297fa708.herokuapp.com/) | Node.js, Express, MongoDB |
+| File Metadata Microservice | A microservice to get file metadata. | [Repo Link](https://github.com/agmt92/filemetadata-microservice) | [Live Demo](https://filemetada-microservice-0402d86def70.herokuapp.com/) | Node.js, Express |
+| URL Shortener | A microservice to shorten URLs. | [Repo Link](https://github.com/agmt92/boilerplate-project-urlshortener) | [Live Demo](https://dry-brushlands-17298-607b22fd3d43.herokuapp.com/) | Node.js, Express, MongoDB |
 
-### Full-Stack Projects
 
-| Title | Description | Repository | Live Demo |
-|-------|-------------|------------|-----------|
-| Project 5 | Description of Project 5 | [Repo Link](https://github.com/your-username/project5) | [Live Demo](https://your-username.herokuapp.com/project5) |
-| Project 6 | Description of Project 6 | [Repo Link](https://github.com/your-username/project6) | [Live Demo](https://your-username.pythonanywhere.com/project6) |
-
-## Certificates
-
-You can view my certificates [here](https://www.your-certificate-link.com).
 
 ## Contact
 
-Feel free to reach out to me via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Feel free to reach out to me here or via [email](mailto:agmt@dr.com)
 
 ---
 
