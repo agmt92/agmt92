@@ -6,13 +6,13 @@ Hello! I'm a junior developer and a medical doctor with a passion for programmin
 
 ## Education and Certifications
 
-### University of Michigan Courses (MOOCs)
+### MOOCs
 
-- **[Python for Everybody (PY4E)](https://www.coursera.org/specializations/python)** by Dr. Chuck Severance
-- **[Django for Everybody (DJ4E)](https://www.coursera.org/specializations/django)** by Dr. Chuck Severance
-- **[PostgreSQL for Everybody (PG4E)](https://www.coursera.org/specializations/postgresql-for-everybody)** by Dr. Chuck Severance
-- **[Web Applications for Everybody (WA4E)](https://www.coursera.org/specializations/web-applications)** by Dr. Chuck Severance
-- **[Web Design for Everybody (WD4E)](https://www.coursera.org/specializations/web-design)** by Colleen Van Lent
+- **[Python for Everybody (PY4E)](https://www.coursera.org/specializations/python)** by Dr. Chuck Severance - University of Michigan
+- **[Django for Everybody (DJ4E)](https://www.coursera.org/specializations/django)** by Dr. Chuck Severance - University of Michigan
+- **[PostgreSQL for Everybody (PG4E)](https://www.coursera.org/specializations/postgresql-for-everybody)** by Dr. Chuck Severance - University of Michigan
+- **[Web Applications for Everybody (WA4E)](https://www.coursera.org/specializations/web-applications)** by Dr. Chuck Severance - University of Michigan
+- **[Web Design for Everybody (WD4E)](https://www.coursera.org/specializations/web-design)** by Colleen Van Lent - University of Michigan
 
 ### freeCodeCamp Certifications
 
