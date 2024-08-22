@@ -57,11 +57,11 @@ Here are some of my projects hosted on various platforms:
 | QT Machine | A QT machine built using React. | [Repo Link](https://github.com/agmt92/qt_machine) | [Live Demo](https://agmt92.github.io/qt_machine/) | React |
 | Markdown Previewer | A Markdown previewer built using React. | [Repo Link](https://github.com/agmt92/markdown-previewer) | [Live Demo](https://agmt92.github.io/markdown-previewer/) | React |
 | JavaScript Calculator | A calculator built using JavaScript, React, and Redux. | [Repo Link](https://github.com/agmt92/js-calculator) | [Live Demo](https://agmt92.github.io/js-calculator/) | React-Redux |
-| US GDP Visualization | A D3.js project visualizing US GDP data. | [Repo Link](https://github.com/agmt92/us-gdp-d3) | [Live Demo](https://agmt92.github.io/us-gdp-d3/) | D3.js |
-| Kickstarter Pledges Treemap | A D3.js project visualizing Kickstarter pledges. | [Repo Link](https://github.com/agmt92/kickstarter-pledges-treamap-d3) | [Live Demo](https://agmt92.github.io/kickstarter-pledges-treamap-d3/) | D3.js |
-| Heatmap | A D3.js project visualizing heatmap data. | [Repo Link](https://github.com/agmt92/heatmap-d3) | [Live Demo](https://agmt92.github.io/heatmap-d3/) | D3.js |
-| US Education Map | A D3.js project visualizing US education data. | [Repo Link](https://github.com/agmt92/us-edu-map-d3) | [Live Demo](https://agmt92.github.io/us-edu-map-d3/) | D3.js |
-| Cycling Doping Data | A D3.js project visualizing cycling doping data. | [Repo Link](https://github.com/agmt92/cycling-doping-d3) | [Live Demo](https://agmt92.github.io/cycling-doping-d3/) | D3.js |
+| US GDP Visualization | A D3.js project visualizing US GDP data. | [Repo Link](https://github.com/agmt92/us-gdp-d3) | [Live Demo](https://agmt92.github.io/us-gdp-d3/) | D3.js - SVG|
+| Kickstarter Pledges Treemap | A D3.js project visualizing Kickstarter pledges. | [Repo Link](https://github.com/agmt92/kickstarter-pledges-treamap-d3) | [Live Demo](https://agmt92.github.io/kickstarter-pledges-treamap-d3/) | D3.js - SVG |
+| Heatmap | A D3.js project visualizing heatmap data. | [Repo Link](https://github.com/agmt92/heatmap-d3) | [Live Demo](https://agmt92.github.io/heatmap-d3/) | D3.js - SVG |
+| US Education Map | A D3.js project visualizing US education data. | [Repo Link](https://github.com/agmt92/us-edu-map-d3) | [Live Demo](https://agmt92.github.io/us-edu-map-d3/) | D3.js - SVG |
+| Cycling Doping Data | A D3.js project visualizing cycling doping data. | [Repo Link](https://github.com/agmt92/cycling-doping-d3) | [Live Demo](https://agmt92.github.io/cycling-doping-d3/) | D3.js - SVG |
 | 30mins Clock | A clock application built using React. | [Repo Link](https://github.com/agmt92/30mins-clock) | [Live Demo](https://agmt92.github.io/30mins-clock/) | React-Redux |
 
 ### Back-End Projects
