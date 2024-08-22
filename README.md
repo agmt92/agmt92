@@ -54,7 +54,7 @@ Here are some of my projects hosted on various platforms:
 | Title | Description | Repository | Live Demo | Main Technology/Framework |
 |-------|-------------|------------|-----------|---------------------------|
 | Drum Machine | A drum machine built using React. | [Repo Link](https://github.com/agmt92/drum-machine) | [Live Demo](https://agmt92.github.io/drum-machine/) | React-redux |
-| QT Machine | A quote machine built using React. | [Repo Link](https://github.com/agmt92/qt_machine) | [Live Demo](https://agmt92.github.io/qt_machine/) | React |
+| QT Machine | An app that random fetches quotes from an API. | [Repo Link](https://github.com/agmt92/qt_machine) | [Live Demo](https://agmt92.github.io/qt_machine/) | React |
 | Markdown Previewer | A Markdown previewer built using React. | [Repo Link](https://github.com/agmt92/markdown-previewer) | [Live Demo](https://agmt92.github.io/markdown-previewer/) | React |
 | JavaScript Calculator | A calculator built using JavaScript, React, and Redux. | [Repo Link](https://github.com/agmt92/js-calculator) | [Live Demo](https://agmt92.github.io/js-calculator/) | React-Redux |
 | US GDP Visualization | A D3.js project visualizing US GDP data. | [Repo Link](https://github.com/agmt92/us-gdp-d3) | [Live Demo](https://agmt92.github.io/us-gdp-d3/) | D3.js - SVG|
