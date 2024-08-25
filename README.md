@@ -100,12 +100,12 @@ Here are some of my projects hosted on various platforms:
 
 ### freeCodeCamp Certifications
 
-- **[Responsive Web Design Certification](https://www.freecodecamp.org/certification/your-username/responsive-web-design)**: HTML, CSS
-- **[JavaScript Algorithms and Data Structures (Beta) Certification](https://www.freecodecamp.org/certification/your-username/javascript-algorithms-and-data-structures)**: ES6 JS Fundamentals, Form Validation, DOM Manipulation, Data Structures, Date Objects, Local Storage, Recursion, RegEx, Array and Object Methods, Functional Programming, OOP, Fetch and Async Programming
-- **[Front End Development Libraries Certification](https://www.freecodecamp.org/certification/your-username/front-end-development-libraries)**: Bootstrap, JQuery, SASS, React, Redux
-- **[Data Visualization Certification](https://www.freecodecamp.org/certification/your-username/data-visualization)**: Data Visualization with D3, JSON APIs, AJAX
-- **[Back End Development and APIs Certification](https://www.freecodecamp.org/certification/your-username/back-end-development-and-apis)**: Managing Packages with NPM, Node and Express, MongoDB and Mongoose.
-- **[Quality Assurance Certification](https://www.freecodecamp.org/certification/your-username/quality-assurance)**: Writing tests with Chai, advanced Node and Express concepts, Pug template engine, Passport authentication, Socket.io for real-time communication
+- **[Responsive Web Design Certification](https://www.freecodecamp.org/certification/agmt/responsive-web-design)**: HTML, CSS
+- **[JavaScript Algorithms and Data Structures (Beta) Certification](https://www.freecodecamp.org/certification/agmt/javascript-algorithms-and-data-structures)**: ES6 JS Fundamentals, Form Validation, DOM Manipulation, Data Structures, Date Objects, Local Storage, Recursion, RegEx, Array and Object Methods, Functional Programming, OOP, Fetch and Async Programming
+- **[Front End Development Libraries Certification](https://www.freecodecamp.org/certification/agmt/front-end-development-libraries)**: Bootstrap, JQuery, SASS, React, Redux
+- **[Data Visualization Certification](https://www.freecodecamp.org/certification/agmt/data-visualization)**: Data Visualization with D3, JSON APIs, AJAX
+- **[Back End Development and APIs Certification](https://www.freecodecamp.org/certification/agmt/back-end-development-and-apis)**: Managing Packages with NPM, Node and Express, MongoDB and Mongoose.
+- **[Quality Assurance Certification](https://www.freecodecamp.org/certification/agmt/quality-assurance-v7)**: Writing tests with Chai, advanced Node and Express concepts, Pug template engine, Passport authentication, Socket.io for real-time communication
 - **Currently Learning**: Quality Assurance and Information Security curriculums
 
 </details>
