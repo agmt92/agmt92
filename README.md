@@ -8,7 +8,7 @@
     </a>
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,php" />
+      <img src="https://skillicons.dev/icons?i=python,php,express" />
     </a>
     <br>
     <a href="https://skillicons.dev">
@@ -73,6 +73,17 @@ Here are some of my projects hosted on various platforms:
 | Exercise Tracker | A microservice to track exercises. | [Repo Link](https://github.com/agmt92/-GitHub-b-boilerplate-project-exercisetracker-) | [Live Demo](https://exercise-tracker-hrk-2942297fa708.herokuapp.com/) | <img src="https://skillicons.dev/icons?i=express,javascript,mongodb"> |
 | File Metadata Microservice | A microservice to get file metadata. | [Repo Link](https://github.com/agmt92/filemetadata-microservice) | [Live Demo](https://filemetada-microservice-0402d86def70.herokuapp.com/) |  <img src="https://skillicons.dev/icons?i=express,javascript,mongodb"> |
 | URL Shortener | A microservice to shorten URLs. | [Repo Link](https://github.com/agmt92/boilerplate-project-urlshortener) | [Live Demo](https://cut-2c183dc1c6a9.herokuapp.com/) |  <img src="https://skillicons.dev/icons?i=express,javascript,mongodb"> |
+
+### Quality Assurance with Advanced Node and Express Projects
+
+| Title | Description | Repository | Live Demo | Main Technology/Framework |
+|-------|-------------|------------|-----------|---------------------------|
+| Metric-Imperial Converter | A web application to convert between metric and imperial units. | [Repo Link](https://github.com/agmt92/metric-imp-converter?tab=readme-ov-file) | [Live Demo](https://metricimp-converter-f60d333613cf.herokuapp.com/) | <img src="https://skillicons.dev/icons?i=nodejs,express,javascript"> |
+| Issue Tracker | A web application to track issues. | [Repo Link](https://github.com/agmt92/issue-tracker) | [Live Demo](https://tranquil-bayou-97588-ed0d7e6ffb37.herokuapp.com/) | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript"> |
+| Personal Book Library | A web application to manage a personal book library. | [Repo Link](https://github.com/agmt92/project-library) | [Live Demo](https://project-library-32705ad865b6.herokuapp.com/) | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript"> |
+| Sudoku Solver | A web application to solve Sudoku puzzles. | [Repo Link](https://github.com/agmt92/sodoku-solver) | [Live Demo](https://sodoku-solver-8bd9620b34c6.herokuapp.com/) | <img src="https://skillicons.dev/icons?i=nodejs,express,javascript"> |
+| American British Translator | A web application to translate text between American and British English. | [Repo Link](https://github.com/agmt92/us-brit-translator) | [Live Demo](https://eng-brit-translator-98c5db572423.herokuapp.com/) | <img src="https://skillicons.dev/icons?i=nodejs,express,javascript"> |
+
 </details>
 
 
@@ -93,7 +104,8 @@ Here are some of my projects hosted on various platforms:
 - **[JavaScript Algorithms and Data Structures (Beta) Certification](https://www.freecodecamp.org/certification/your-username/javascript-algorithms-and-data-structures)**: ES6 JS Fundamentals, Form Validation, DOM Manipulation, Data Structures, Date Objects, Local Storage, Recursion, RegEx, Array and Object Methods, Functional Programming, OOP, Fetch and Async Programming
 - **[Front End Development Libraries Certification](https://www.freecodecamp.org/certification/your-username/front-end-development-libraries)**: Bootstrap, JQuery, SASS, React, Redux
 - **[Data Visualization Certification](https://www.freecodecamp.org/certification/your-username/data-visualization)**: Data Visualization with D3, JSON APIs, AJAX
-- **[Back End Development and APIs Certification](https://www.freecodecamp.org/certification/your-username/back-end-development-and-apis)**: Managing Packages with NPM, Node and Express, MongoDB and Mongoose
+- **[Back End Development and APIs Certification](https://www.freecodecamp.org/certification/your-username/back-end-development-and-apis)**: Managing Packages with NPM, Node and Express, MongoDB and Mongoose.
+- **[Quality Assurance Certification](https://www.freecodecamp.org/certification/your-username/quality-assurance)**: Writing tests with Chai, advanced Node and Express concepts, Pug template engine, Passport authentication, Socket.io for real-time communication
 - **Currently Learning**: Quality Assurance and Information Security curriculums
 
 </details>
@@ -120,6 +132,7 @@ Here are some of my projects hosted on various platforms:
 - **Data Visualization**: Creating dynamic and interactive data visualizations using D3.js and other JavaScript libraries.
 - **Web Design**: Crafting aesthetically pleasing and user-friendly web designs.
 - **Quality Assurance**: Ensuring the quality and reliability of web applications through testing and debugging.
+- **Quality Assurance**: Writing tests with Chai to ensure applications work as expected, advanced Node and Express concepts, Pug template engine, Passport authentication, Socket.io for real-time communication.
 
 </details> 
 <details>
