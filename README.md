@@ -47,6 +47,7 @@ Here are some of my projects hosted on various platforms:
 | Title | Description | Repository | Live Demo | Main Technology/Framework |
 |-------|-------------|------------|-----------|---------------------------|
 | MedLb | Full-stack application for a Medication and Pharmacies database. | [Repo Link](https://github.com/agmt92/MedLb) | [Live Demo](https://agmt92.pythonanywhere.com/) | <img src="https://skillicons.dev/icons?i=django,mysql,python,pycharm" />|
+| NextJS Dashboard | A dashboard app based on a NextJS boilerplate | [Repo Link](https://github.com/agmt92/next-dashboard-app) | [Live Demo](https://next-dashboard-app-gray.vercel.app/) | <img src="https://skillicons.dev/icons?i=nextjs,postgres,typescript" />|
 
 
 ### Front-End Projects
@@ -62,7 +63,7 @@ Here are some of my projects hosted on various platforms:
 | Heatmap | A D3.js project visualizing heatmap data. | [Repo Link](https://github.com/agmt92/heatmap-d3) | [Live Demo](https://agmt92.github.io/heatmap-d3/) | <img src="https://skillicons.dev/icons?i=d3,svg,javascript"> |
 | US Education Map | A D3.js project visualizing US education data. | [Repo Link](https://github.com/agmt92/us-edu-map-d3) | [Live Demo](https://agmt92.github.io/us-edu-map-d3/) | <img src="https://skillicons.dev/icons?i=d3,svg,javascript"> |
 | Cycling Doping Data | A D3.js project visualizing cycling doping data. | [Repo Link](https://github.com/agmt92/cycling-doping-d3) | [Live Demo](https://agmt92.github.io/cycling-doping-d3/) | <img src="https://skillicons.dev/icons?i=d3,svg,javascript"> |
-| 30mins Clock | A clock application built using React. | [Repo Link](https://github.com/agmt92/30mins-clock) | [Live Demo](https://agmt92.github.io/30mins-clock/) | <img src="https://skillicons.dev/icons?i=react,redux,javascript"> |
+| 30mins Clock (POMODORO) | A clock application built using React. | [Repo Link](https://github.com/agmt92/30mins-clock) | [Live Demo](https://agmt92.github.io/30mins-clock/) | <img src="https://skillicons.dev/icons?i=react,redux,javascript"> |
 
 ### Back-End Projects
 
@@ -106,7 +107,7 @@ Here are some of my projects hosted on various platforms:
 - **[Data Visualization Certification](https://www.freecodecamp.org/certification/agmt/data-visualization)**: Data Visualization with D3, JSON APIs, AJAX
 - **[Back End Development and APIs Certification](https://www.freecodecamp.org/certification/agmt/back-end-development-and-apis)**: Managing Packages with NPM, Node and Express, MongoDB and Mongoose.
 - **[Quality Assurance Certification](https://www.freecodecamp.org/certification/agmt/quality-assurance-v7)**: Writing tests with Chai, advanced Node and Express concepts, Pug template engine, Passport authentication, Socket.io for real-time communication
-- **Currently Learning**: Quality Assurance and Information Security curriculums
+- **Currently Learning**: Information Security, Expanding my TypeScript knowledge, creating my own website.
 
 </details>
 
