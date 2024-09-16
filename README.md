@@ -46,6 +46,7 @@ Here are some of my projects hosted on various platforms:
 
 | Title | Description | Repository | Live Demo | Main Technology/Framework |
 |-------|-------------|------------|-----------|---------------------------|
+| mtag.me | My personal website, build from scratch using NextJS and Typescript. | [Repo Link](https://github.com/agmt92/MedLb) | [Live Demo](https://agmt92.pythonanywhere.com/) | <img src="https://skillicons.dev/icons?i=typescript,next,react,tailwindcss" />|
 | MedLb | Full-stack application for a Medication and Pharmacies database. | [Repo Link](https://github.com/agmt92/MedLb) | [Live Demo](https://agmt92.pythonanywhere.com/) | <img src="https://skillicons.dev/icons?i=django,mysql,python,pycharm" />|
 | NextJS Dashboard | A dashboard app based on a NextJS boilerplate | [Repo Link](https://github.com/agmt92/next-dashboard-app) | [Live Demo](https://next-dashboard-app-gray.vercel.app/) | <img src="https://skillicons.dev/icons?i=nextjs,postgres,typescript" />|
 
